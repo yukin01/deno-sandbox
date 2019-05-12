@@ -1,0 +1,13 @@
+{
+  "name": "deno-sandbox",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "git@github.com:yukin01/deno-sandbox.git",
+  "author": "yukin01 <bump1105@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^3.4.5",
+    "typescript-deno-plugin": "^1.2.4"
+  }
+}

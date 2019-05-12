@@ -2,8 +2,9 @@
   "compilerOptions": {
     "plugins": [
       {
-        "name": "typescript-deno-plugin"
+        // "name": "typescript-deno-plugin"
       }
     ]
-  }
+  },
+  "include": ["src"]
 }
